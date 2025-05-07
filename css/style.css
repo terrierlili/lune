@@ -488,6 +488,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  color: #fff;
+}
 #pignouquet {
   width: 60px;
   height: 60px;
