@@ -489,8 +489,8 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 #pignouquet {
-  width: 120px;
-  height: 120px;
+  width: 60px;
+  height: 60px;
 }
 .content {
   position: relative;
