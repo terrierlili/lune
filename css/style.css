@@ -488,6 +488,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
+#pignouquet {
+  width: 120px;
+  height: 120px;
+}
 .content {
   position: relative;
   display: flex;
