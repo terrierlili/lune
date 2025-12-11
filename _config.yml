@@ -106,4 +106,4 @@ theme_config:
 deploy:
   type: git
   repo: https://github.com/terrierlili/lune.git
-  branch: main  # ou 'gh-pages' pour un dépôt de projet
+  branch: gh-pages  # ou 'gh-pages' pour un dépôt de projet
