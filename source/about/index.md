@@ -7,5 +7,5 @@ Un dessin
 
 Blablabla
 dessiner, les amis, les vies ailleurs, les langues...
-l'italien, l'espagnol, le russe, le français, toujours l'anglais
+l'espagnol, le russe, le français, toujours l'anglais
 

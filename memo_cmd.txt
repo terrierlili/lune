@@ -2,3 +2,10 @@ npm run build
 npm run server
 
 hexo clean && hexo generate && hexo server
+
+
+git add .
+git commit -m "Code source du blog Hexo"
+git push origin main
+
+git push -u origin main --force
