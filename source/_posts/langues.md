@@ -6,7 +6,7 @@ tags:
 - espagnol
 ---
 
-<img src="/images/chant2_transp.png" alt="chantier" style="width: 50%; height: auto; margin: 20px 0;">
+<img src="/lune/images/chant2_transp.png" alt="chantier" style="width: 50%; height: auto; margin: 20px 0;">
 
 ça fait quoi apprendre une nouvelle langue ?
 

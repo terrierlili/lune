@@ -9,12 +9,12 @@ tags:
 
 Dans les rues, il n'y a pas un chat.
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/ete_1.svg" alt="Image été 1" style="flex: 1; width: 100%; height: auto; object-fit: cover;">
-  <img src="/images/ete_2.svg" alt="Image été 2" style="flex: 1; width: 100%; height: auto; object-fit: cover;">
-  <img src="/images/ete_3.svg" alt="Image été 3" style="flex: 1; width: 100%; height: auto; object-fit: cover;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 20px 0;">
+  <img src="/lune/images/ete_1.svg" alt="Image été 1" style="width: 100%; height: auto; display: block;">
+  <img src="/lune/images/ete_2.svg" alt="Image été 2" style="width: 100%; height: auto; display: block;">
+  <img src="/lune/images/ete_3.svg" alt="Image été 3" style="width: 100%; height: auto; display: block;">
 </div>
 
 Et à la plage, ça lézarde !
 
-<img src="/images/ete_4.png" alt="Image été 4" style="width: 100%; height: auto; margin: 20px 0;">
+<img src="/lune/images/ete_4.png" alt="Image été 4" style="width: 100%; max-width: 100%; height: auto; margin: 20px 0; display: block;">

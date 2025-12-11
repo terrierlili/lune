@@ -5,7 +5,7 @@ tags:
 - architecture
 ---
 
-<img src="/images/chantier_transp.png" alt="chantier" style="width: 20%; height: auto; margin: 20px 0;">
+<img src="/lune/images/chantier_transp.png" alt="chantier" style="width: 20%; height: auto; margin: 20px 0;">
 
 . dessin de mon plafond en :
 . noir et blanc
