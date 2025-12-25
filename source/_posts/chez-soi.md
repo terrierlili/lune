@@ -7,8 +7,11 @@ tags:
 
 <img src="/lune/images/chant2_transp.png" alt="chantier" style="width: 50%; height: auto; margin: 20px 0;">
 
-Dis, où c'est chez toi ?
+## Dis, où c'est chez toi ?
 
-Emilie Jolie :
+. se sentir chez soi
+. chez soi = le corps
+
+Ref :
 https://www.youtube.com/watch?v=ybRjk9KKcT8&list=RDybRjk9KKcT8&start_radio=1
 

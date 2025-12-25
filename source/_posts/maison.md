@@ -7,12 +7,11 @@ tags:
 
 <img src="/lune/images/chantier_transp.png" alt="chantier" style="width: 20%; height: auto; margin: 20px 0;">
 
-. maison :
+maison :
 . plafond
 . la nuit
-. quand il pleut
-. quand il a du soleil
+. la pluie
+. au soleil
 . monochrome
 . ça arrive
-. la nuit
-. les yeux fermés = cadre noir :D
+. les yeux fermés

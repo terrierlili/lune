@@ -8,15 +8,14 @@ tags:
 
 <img src="/lune/images/chant2_transp.png" alt="chantier" style="width: 50%; height: auto; margin: 20px 0;">
 
-ça fait quoi apprendre une nouvelle langue ?
+## Apprendre une nouvelle langue
 
-tout devient epuisant
-. se faire des amis
-. Ne rien comprendre
-. ne pas avoir de nuance
+. cerveau en reconstruction
+. tout est épuisant
+. fracture de la nuance
+. c'est le corps qui parle -> signes
+. bassin de mots
+. labyrinthe de lettre
+. poursuivi par les mots
 
-dessin : noyer sous les mots, perdu dans un labyrinthe de lettre, 
-bombardé de mots inconnues, avoir des fourmis dans le cerveau,
-
-. mettre dessin du : 'je parle avec mon corps'
 
